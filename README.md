@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Basic React Project
-
-<<<<<<< HEAD
 
 #### useState
 
@@ -63,6 +60,3 @@ Basic React Project
     #React Router and useCallback
     Cocktails
     [![Netlify Status](https://api.netlify.com/api/v1/badges/fa282d03-1dd2-43d0-a568-6e61b2452b8b/deploy-status)](https://app.netlify.com/sites/mansi-react-tourapp/deploys)
-    > > > > > > > # 112502ded6e9cb02c43316ede317aff1761df49d
-    > > > > > > >
-    > > > > > > > a66b18342251883dce9254ead379825922536b75
